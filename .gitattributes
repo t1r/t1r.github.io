@@ -27,3 +27,11 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+#
+*.wasm binary
+*.der binary
+*.projectc binary
+*.dmanifest binary
+*.arci binary
+*.arcd binary
