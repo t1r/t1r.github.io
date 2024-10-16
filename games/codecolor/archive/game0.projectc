@@ -1,6 +1,6 @@
 [project]
 title = CodeColor
-version = 0.1
+version = 1.0
 write_log = 0
 compress_archive = 1
 publisher = unnamed
@@ -87,7 +87,7 @@ game_binding = /input/game.input_bindingc
 use_accelerometer = 1
 
 [sprite]
-max_count = 256
+max_count = 512
 subpixels = 1
 
 [model]
@@ -205,3 +205,4 @@ max_tile_count = 2048
 [engine]
 run_while_iconified = 0
 fixed_update_frequency = 60
+
